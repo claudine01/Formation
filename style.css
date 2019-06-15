@@ -1,0 +1,40 @@
+
+#banner{
+  text-align: center;
+  background-image: linear-gradient(rgba(200, 200, 200, 0.3), rgba(200, 200, 200, 0.3)), url("https://source.unsplash.com/1600x900/?vegetables");
+  background-size: cover;
+  padding: 150px 0;
+  color: white;
+}
+#banner h1 {
+  color: white;
+  font-size: 50px;
+}
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+.card{
+  padding: 50px;
+  font-weight: lighter;
+  text-align: center;
+}
+
+.container {
+  width: 100%!important;
+}
+#footer a {
+  color: lightgrey;
+  font-size: 15px;
+}
+#footer a:hover {
+  color: white;
+}
+#footer ul {list-style: none;}
